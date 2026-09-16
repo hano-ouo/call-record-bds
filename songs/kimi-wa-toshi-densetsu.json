@@ -1,0 +1,1488 @@
+{
+  "id": "kimi-wa-toshi-densetsu",
+  "title": "キミは都市伝説",
+  "titleKana": "きみはとしでんせつ",
+  "releaseDate": "2026-07-08",
+  "hasCall": true,
+  "preview": {
+    "lyricExcerpt": "Love還元",
+    "note": ""
+  },
+  "lyrics": [
+    {
+      "start": 0,
+      "end": 1,
+      "ja": {
+        "text": "作曲 : 渡辺拓也",
+        "segments": [
+          { "text": "作曲 : 渡辺拓也", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 1,
+      "end": 2,
+      "ja": {
+        "text": "作词 : 渡辺拓也",
+        "segments": [
+          { "text": "作词 : 渡辺拓也", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 2,
+      "end": 3.386,
+      "ja": {
+        "text": "编曲 : 渡辺拓也",
+        "segments": [
+          { "text": "编曲 : 渡辺拓也", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 3.386,
+      "end": 5.955,
+      "ja": {
+        "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!",
+        "segments": [
+          { "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ふみくん！ケビン！もーりー！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "ふみくん", "type": "kana", "romaji": "FUMIkun" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "ケビン", "type": "kana", "romaji": "KEVIN" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "もーりー", "type": "kana", "romaji": "MORRIE" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 5.955,
+      "end": 7.806,
+      "ja": {
+        "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!",
+        "segments": [
+          { "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "せいや！ゆうま！まだまだ！！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "せいや", "type": "kana", "romaji": "SEIYA" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "ゆうま", "type": "kana", "romaji": "YUMA" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "まだまだ", "type": "kana", "romaji": "madamada" },
+            { "text": "！！", "type": "kana", "romaji": "!!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 7.806,
+      "end": 9.761,
+      "ja": {
+        "text": "宵々で踊れparty",
+        "segments": [
+          { "text": "宵々", "type": "kanji", "kana": "よいよい", "romaji": "yoiyoi" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "踊れ", "type": "kanji", "kana": "おどれ", "romaji": "odore" },
+          { "text": "party", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 9.761,
+      "end": 12.724,
+      "ja": {
+        "text": "Koi! Koi! Koi! Koi! Koi! Koi!",
+        "segments": [
+          { "text": "Koi! Koi! Koi! Koi! Koi! Koi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "しょうちゃん！たくや！ふみや！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "しょうちゃん", "type": "kana", "romaji": "SHOWchan" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "たくや", "type": "kana", "romaji": "TAKUYA" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "ふみや", "type": "kana", "romaji": "FUMIYA" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 12.724,
+      "end": 14.928,
+      "ja": {
+        "text": "Koi! Koi! Koi! Koi! Koi! Koi!",
+        "segments": [
+          { "text": "Koi! Koi! Koi! Koi! Koi! Koi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "しゅーと！BUDDiiS最高！！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "しゅーと", "type": "kana", "romaji": "SHOOT" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "BUDDiiS", "type": "latin" },
+            { "text": "最高", "type": "kanji", "kana": "さいこう", "romaji": "saikou" },
+            { "text": "！！", "type": "kana", "romaji": "!!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 14.928,
+      "end": 16.259,
+      "ja": {
+        "text": "濃い恋で踊れbaby",
+        "segments": [
+          { "text": "濃い", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "踊れ", "type": "kanji", "kana": "おどれ", "romaji": "odore" },
+          { "text": "baby", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 16.259,
+      "end": 18.093,
+      "ja": {
+        "text": "Come on!",
+        "segments": [
+          { "text": "Come on!", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 18.093,
+      "end": 20.72,
+      "ja": {
+        "text": "故意に恋に恋しちゃっているんです",
+        "segments": [
+          { "text": "故意", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "しちゃっているんです", "type": "kana", "romaji": "shichatte irun desu" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 20.72,
+      "end": 23.914,
+      "ja": {
+        "text": "キミとすれ違った路地裏",
+        "segments": [
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "と", "type": "kana", "romaji": "to" },
+          { "text": "すれ違", "type": "kanji", "kana": "すれちが", "romaji": "surechiga" },
+          { "text": "った", "type": "kana", "romaji": "tta" },
+          { "text": "路地裏", "type": "kanji", "kana": "ろじうら", "romaji": "rojiura" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "運命っ！",
+          "align": "end",
+          "segments": [
+            { "text": "運命", "type": "kanji", "kana": "うんめい", "romaji": "unmei" },
+            { "text": "っ！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 23.914,
+      "end": 27.304,
+      "ja": {
+        "text": "スマートフォンでスワイプしても出会えない",
+        "segments": [
+          { "text": "スマートフォン", "type": "kana", "romaji": "smartphone" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "スワイプ", "type": "kana", "romaji": "swipe" },
+          { "text": "しても", "type": "kana", "romaji": "shite mo" },
+          { "text": "出会", "type": "kanji", "kana": "であ", "romaji": "dea" },
+          { "text": "えない", "type": "kana", "romaji": "enai" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 27.304,
+      "end": 31.337,
+      "ja": {
+        "text": "まさに存在自体が神以上だ",
+        "segments": [
+          { "text": "まさに", "type": "kana", "romaji": "masani" },
+          { "text": "存在", "type": "kanji", "kana": "そんざい", "romaji": "sonzai" },
+          { "text": "自体", "type": "kanji", "kana": "じたい", "romaji": "jitai" },
+          { "text": "が", "type": "kana", "romaji": "ga" },
+          { "text": "神", "type": "kanji", "kana": "かみ", "romaji": "kami" },
+          { "text": "以上", "type": "kanji", "kana": "いじょう", "romaji": "ijou" },
+          { "text": "だ", "type": "kana", "romaji": "da" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "う～わお！！",
+          "align": "end",
+          "segments": [
+            { "text": "う～わお", "type": "kana", "romaji": "uu wao" },
+            { "text": "！！", "type": "kana", "romaji": "!!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 31.337,
+      "end": 34.427,
+      "ja": {
+        "text": "Love Love Love これが恋なのか？",
+        "segments": [
+          { "text": "Love Love Love", "type": "latin" },
+          { "text": " ", "type": "latin" },
+          { "text": "これ", "type": "kana", "romaji": "kore" },
+          { "text": "が", "type": "kana", "romaji": "ga" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "なのか？", "type": "kana", "romaji": "na no ka?" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Love Love Love",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "Love Love Love", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 34.427,
+      "end": 37.907,
+      "ja": {
+        "text": "Love Love Love 胸が痛いよ",
+        "segments": [
+          { "text": "Love Love Love", "type": "latin" },
+          { "text": " ", "type": "latin" },
+          { "text": "胸", "type": "kanji", "kana": "むね", "romaji": "mune" },
+          { "text": "が", "type": "kana", "romaji": "ga" },
+          { "text": "痛い", "type": "kanji", "kana": "いたい", "romaji": "itai" },
+          { "text": "よ", "type": "kana", "romaji": "yo" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Love Love Love",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "Love Love Love", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 37.907,
+      "end": 40.726,
+      "ja": {
+        "text": "もっともっと　満たして愛を",
+        "segments": [
+          { "text": "もっと", "type": "kana", "romaji": "motto" },
+          { "text": "もっと", "type": "kana", "romaji": "motto" },
+          { "text": "　", "type": "kana", "romaji": " " },
+          { "text": "満たして", "type": "kanji", "kana": "みたして", "romaji": "mitashite" },
+          { "text": "愛", "type": "kanji", "kana": "あい", "romaji": "ai" },
+          { "text": "を", "type": "kana", "romaji": "o" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "もっと",
+          "align": "start",
+          "offset": 1,
+          "segments": [
+            { "text": "もっと", "type": "kana", "romaji": "motto" }
+          ]
+        },
+        {
+          "text": "愛を",
+          "align": "start",
+          "offset": 4,
+          "segments": [
+            { "text": "愛", "type": "kanji", "kana": "あい", "romaji": "ai" },
+            { "text": "を", "type": "kana", "romaji": "o" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 40.726,
+      "end": 44.566,
+      "ja": {
+        "text": "何度生まれ変わっても",
+        "segments": [
+          { "text": "何度", "type": "kanji", "kana": "なんど", "romaji": "nando" },
+          { "text": "生まれ変わっても", "type": "kana", "romaji": "umarekawatte mo" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 44.566,
+      "end": 47.459,
+      "ja": {
+        "text": "今世紀最大の　キミは都市伝説！？",
+        "segments": [
+          { "text": "今世紀", "type": "kanji", "kana": "こんせいき", "romaji": "konseiki" },
+          { "text": "最大", "type": "kanji", "kana": "さいだい", "romaji": "saidai" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "　", "type": "kana", "romaji": " " },
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "は", "type": "kana", "romaji": "wa" },
+          { "text": "都市伝説", "type": "kanji", "kana": "としでんせつ", "romaji": "toshi densetsu" },
+          { "text": "！？", "type": "kana", "romaji": "!?" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 47.459,
+      "end": 50.601,
+      "ja": {
+        "text": "46億年前から好きでした",
+        "segments": [
+          { "text": "46億年", "type": "kanji", "kana": "よんじゅうろくおくねん", "romaji": "yonjuuroku okunen", "compact": true },
+          { "text": "前", "type": "kanji", "kana": "まえ", "romaji": "mae", "compact": true },
+          { "text": "から", "type": "kana", "romaji": "kara" },
+          { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+          { "text": "でした", "type": "kana", "romaji": "deshita" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "好きでした",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+            { "text": "でした", "type": "kana", "romaji": "deshita" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 50.601,
+      "end": 53.87,
+      "ja": {
+        "text": "人類誕生の前から好きでした",
+        "segments": [
+          { "text": "人類", "type": "kanji", "kana": "じんるい", "romaji": "jinrui" },
+          { "text": "誕生", "type": "kanji", "kana": "たんじょう", "romaji": "tanjou" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "前", "type": "kanji", "kana": "まえ", "romaji": "mae" },
+          { "text": "から", "type": "kana", "romaji": "kara" },
+          { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+          { "text": "でした", "type": "kana", "romaji": "deshita" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "好きでした",
+          "align": "start",
+          "offset": 5,
+          "segments": [
+            { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+            { "text": "でした", "type": "kana", "romaji": "deshita" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 53.87,
+      "end": 57.069,
+      "ja": {
+        "text": "あの夏の夕暮れに恋に落ちた",
+        "segments": [
+          { "text": "あの", "type": "kana", "romaji": "ano" },
+          { "text": "夏", "type": "kanji", "kana": "なつ", "romaji": "natsu" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "夕暮れ", "type": "kanji", "kana": "ゆうぐれ", "romaji": "yuugure" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "落ちた", "type": "kanji", "kana": "おちた", "romaji": "ochita" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 57.069,
+      "end": 60.879,
+      "ja": {
+        "text": "華火に照らされて",
+        "segments": [
+          { "text": "華火", "type": "kanji", "kana": "はなび", "romaji": "hanabi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "照らされて", "type": "kanji", "kana": "てらされて", "romaji": "terasarete" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハイハイハイ　ハイハイ！",
+          "align": "end",
+          "segments": [
+            { "text": "ハイハイハイ", "type": "kana", "romaji": "hai hai hai" },
+            { "text": "　", "type": "kana", "romaji": " " },
+            { "text": "ハイハイ", "type": "kana", "romaji": "hai hai" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 60.879,
+      "end": 62.183,
+      "ja": {
+        "text": "懇懇懇懇懇です",
+        "segments": [
+          { "text": "懇懇懇懇懇", "type": "kanji", "kana": "こんこんこんこんこん", "romaji": "konkonkonkonkon" },
+          { "text": "です", "type": "kana", "romaji": "desu" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 62.183,
+      "end": 64.081,
+      "ja": {
+        "text": "コンコングラッチュレイション",
+        "segments": [
+          { "text": "コンコン", "type": "kana", "romaji": "koncon" },
+          { "text": "グラッチュレイション", "type": "kana", "romaji": "gratulation" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 64.081,
+      "end": 67.354,
+      "ja": {
+        "text": "今今今今今世も恋したい",
+        "segments": [
+          { "text": "今今今今今世", "type": "kanji", "kana": "こんこんこんこんこんせ", "romaji": "kon kon kon kon konse" },
+          { "text": "も", "type": "kana", "romaji": "mo" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "したい", "type": "kana", "romaji": "shitai" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "恋したい",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+            { "text": "したい", "type": "kana", "romaji": "shitai" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 67.354,
+      "end": 69.146,
+      "ja": {
+        "text": "懇懇懇懇懇です",
+        "segments": [
+          { "text": "懇懇懇懇懇", "type": "kanji", "kana": "こんこんこんこんこん", "romaji": "konkonkonkonkon" },
+          { "text": "です", "type": "kana", "romaji": "desu" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 69.146,
+      "end": 70.697,
+      "ja": {
+        "text": "コンコングラッチュレイション",
+        "segments": [
+          { "text": "コンコン", "type": "kana", "romaji": "koncon" },
+          { "text": "グラッチュレイション", "type": "kana", "romaji": "gratulation" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 70.697,
+      "end": 74.234,
+      "ja": {
+        "text": "今今今今falling love",
+        "segments": [
+          { "text": "今今今今", "type": "kanji", "kana": "こんこんこんこん", "romaji": "kon kon kon kon" },
+          { "text": "falling love", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハイハイハイ　ハイハイ！",
+          "align": "end",
+          "segments": [
+            { "text": "ハイハイハイ", "type": "kana", "romaji": "hai hai hai" },
+            { "text": "　", "type": "kana", "romaji": " " },
+            { "text": "ハイハイ", "type": "kana", "romaji": "hai hai" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 74.234,
+      "end": 77.584,
+      "ja": {
+        "text": "恋したい　ホモサピエンス",
+        "segments": [
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "したい", "type": "kana", "romaji": "shitai" },
+          { "text": "　", "type": "kana", "romaji": " " },
+          { "text": "ホモサピエンス", "type": "kana", "romaji": "homo sapiens" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Fu！",
+          "align": "end",
+          "segments": [
+            { "text": "Fu", "type": "latin" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 77.584,
+      "end": 80.436,
+      "ja": {
+        "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!",
+        "segments": [
+          { "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 80.436,
+      "end": 82.706,
+      "ja": {
+        "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!",
+        "segments": [
+          { "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 82.706,
+      "end": 84.388,
+      "ja": {
+        "text": "宵々で踊れparty",
+        "segments": [
+          { "text": "宵々", "type": "kanji", "kana": "よいよい", "romaji": "yoiyoi" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "踊れ", "type": "kanji", "kana": "おどれ", "romaji": "odore" },
+          { "text": "party", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 84.388,
+      "end": 87.49,
+      "ja": {
+        "text": "利己的なキミに虜（はぁ？）",
+        "segments": [
+          { "text": "利己的", "type": "kanji", "kana": "りこてき", "romaji": "rikoteki" },
+          { "text": "な", "type": "kana", "romaji": "na" },
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "虜", "type": "kanji", "kana": "とりこ", "romaji": "toriko" },
+          { "text": "（はぁ？）", "type": "kana", "romaji": "(haa?)" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 87.49,
+      "end": 90.864,
+      "ja": {
+        "text": "遺伝子さえもキミに虜（えぇ？）",
+        "segments": [
+          { "text": "遺伝子", "type": "kanji", "kana": "いでんし", "romaji": "idenshi" },
+          { "text": "さえも", "type": "kana", "romaji": "sae mo" },
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "虜", "type": "kanji", "kana": "とりこ", "romaji": "toriko" },
+          { "text": "（えぇ？）", "type": "kana", "romaji": "(ee?)" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 90.864,
+      "end": 94.218,
+      "ja": {
+        "text": "量子単位でキミに虜（なんて？）",
+        "segments": [
+          { "text": "量子", "type": "kanji", "kana": "りょうし", "romaji": "ryoushi" },
+          { "text": "単位", "type": "kanji", "kana": "たんい", "romaji": "tan'i" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "虜", "type": "kanji", "kana": "とりこ", "romaji": "toriko" },
+          { "text": "（なんて？）", "type": "kana", "romaji": "(nante?)" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 94.218,
+      "end": 97.445,
+      "ja": {
+        "text": "重力さえもキミに虜（どうゆうこと？）",
+        "segments": [
+          { "text": "重力", "type": "kanji", "kana": "じゅうりょく", "romaji": "juuryoku" },
+          { "text": "さえも", "type": "kana", "romaji": "sae mo" },
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "虜", "type": "kanji", "kana": "とりこ", "romaji": "toriko" },
+          { "text": "（どうゆうこと？）", "type": "kana", "romaji": "(dou yuu koto?)" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 97.445,
+      "end": 105.405,
+      "ja": {
+        "text": "キミは都市伝説なのか…",
+        "segments": [
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "は", "type": "kana", "romaji": "wa" },
+          { "text": "都市伝説", "type": "kanji", "kana": "としでんせつ", "romaji": "toshi densetsu" },
+          { "text": "なのか…", "type": "kana", "romaji": "na no ka..." }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "（喊出推し的名字！）",
+          "align": "end",
+          "segments": [
+            { "text": "（喊出推し的名字！）", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 105.405,
+      "end": 108.828,
+      "ja": {
+        "text": "Love Love Love 無敵すぎる",
+        "segments": [
+          { "text": "Love Love Love", "type": "latin" },
+          { "text": " ", "type": "latin" },
+          { "text": "無敵", "type": "kanji", "kana": "むてき", "romaji": "muteki" },
+          { "text": "すぎる", "type": "kana", "romaji": "sugiru" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Love Love Love",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "Love Love Love", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 108.828,
+      "end": 112.395,
+      "ja": {
+        "text": "Love Love Love 超新星爆発",
+        "segments": [
+          { "text": "Love Love Love", "type": "latin" },
+          { "text": " ", "type": "latin" },
+          { "text": "超新星", "type": "kanji", "kana": "ちょうしんせい", "romaji": "choushinsei", "compact": true  },
+          { "text": "爆発", "type": "kanji", "kana": "ばくはつ", "romaji": "bakuhatsu", "compact": true }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Love Love Love",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "Love Love Love", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 112.395,
+      "end": 113.569,
+      "ja": {
+        "text": "Love還元",
+        "segments": [
+          { "text": "Love", "type": "latin" },
+          { "text": "還元", "type": "kanji", "kana": "かんげん", "romaji": "kangen" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 113.569,
+      "end": 116.746,
+      "ja": {
+        "text": "138億年前から推しでした",
+        "segments": [
+          { "text": "138億年", "type": "kanji", "kana": "ひゃくさんじゅうはちおくねん", "romaji": "hyakusanjuuhachi okunen", "compact": true },
+          { "text": "前", "type": "kanji", "kana": "まえ", "romaji": "mae", "compact": true },
+          { "text": "から", "type": "kana", "romaji": "kara" },
+          { "text": "推し", "type": "kanji", "kana": "おし", "romaji": "oshi" },
+          { "text": "でした", "type": "kana", "romaji": "deshita" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "推しでした",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "推し", "type": "kanji", "kana": "おし", "romaji": "oshi" },
+            { "text": "でした", "type": "kana", "romaji": "deshita" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 116.746,
+      "end": 120.002,
+      "ja": {
+        "text": "宇宙創生の前から推しでした",
+        "segments": [
+          { "text": "宇宙", "type": "kanji", "kana": "うちゅう", "romaji": "uchuu" },
+          { "text": "創生", "type": "kanji", "kana": "そうせい", "romaji": "sousei" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "前", "type": "kanji", "kana": "まえ", "romaji": "mae" },
+          { "text": "から", "type": "kana", "romaji": "kara" },
+          { "text": "推し", "type": "kanji", "kana": "おし", "romaji": "oshi" },
+          { "text": "でした", "type": "kana", "romaji": "deshita" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "推しでした",
+          "align": "start",
+          "offset": 5,
+          "segments": [
+            { "text": "推し", "type": "kanji", "kana": "おし", "romaji": "oshi" },
+            { "text": "でした", "type": "kana", "romaji": "deshita" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 120.002,
+      "end": 123.396,
+      "ja": {
+        "text": "春風舞う季節に出会い別れ",
+        "segments": [
+          { "text": "春風", "type": "kanji", "kana": "はるかぜ", "romaji": "harukaze" },
+          { "text": "舞う", "type": "kanji", "kana": "まう", "romaji": "mau" },
+          { "text": "季節", "type": "kanji", "kana": "きせつ", "romaji": "kisetsu" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "出会い", "type": "kanji", "kana": "であい", "romaji": "deai" },
+          { "text": "別れ", "type": "kanji", "kana": "わかれ", "romaji": "wakare" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 123.396,
+      "end": 127.026,
+      "ja": {
+        "text": "より強く恋に落ちる",
+        "segments": [
+          { "text": "より", "type": "kana", "romaji": "yori" },
+          { "text": "強く", "type": "kanji", "kana": "つよく", "romaji": "tsuyoku" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "落ちる", "type": "kanji", "kana": "おちる", "romaji": "ochiru" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハイハイハイ　ハイハイ！",
+          "align": "end",
+          "segments": [
+            { "text": "ハイハイハイ", "type": "kana", "romaji": "hai hai hai" },
+            { "text": "　", "type": "kana", "romaji": " " },
+            { "text": "ハイハイ", "type": "kana", "romaji": "hai hai" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 127.026,
+      "end": 128.554,
+      "ja": {
+        "text": "論論論論論です",
+        "segments": [
+          { "text": "論論論論論", "type": "kanji", "kana": "ろんろんろんろんろん", "romaji": "ronronronronron" },
+          { "text": "です", "type": "kana", "romaji": "desu" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 128.554,
+      "end": 130.305,
+      "ja": {
+        "text": "ロマンティックbaby",
+        "segments": [
+          { "text": "ロマンティック", "type": "kana", "romaji": "romantic" },
+          { "text": "baby", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 130.305,
+      "end": 132.663,
+      "ja": {
+        "text": "ローローローロースローモーション",
+        "segments": [
+          { "text": "ローローローロー", "type": "kana", "romaji": "roo roo roo roo" },
+          { "text": "スローモーション", "type": "kana", "romaji": "slow motion" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 132.663,
+      "end": 133.77,
+      "ja": {
+        "text": "止まんない",
+        "segments": [
+          { "text": "止まんない", "type": "kanji", "kana": "とまんない", "romaji": "toman'nai" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "止まんない",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "止まんない", "type": "kanji", "kana": "とまんない", "romaji": "toman'nai" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 133.77,
+      "end": 135.375,
+      "ja": {
+        "text": "論論論論論です",
+        "segments": [
+          { "text": "論論論論論", "type": "kanji", "kana": "ろんろんろんろんろん", "romaji": "ronronronronron" },
+          { "text": "です", "type": "kana", "romaji": "desu" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 135.375,
+      "end": 136.864,
+      "ja": {
+        "text": "ロマンティックbaby",
+        "segments": [
+          { "text": "ロマンティック", "type": "kana", "romaji": "romantic" },
+          { "text": "baby", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 136.864,
+      "end": 140.678,
+      "ja": {
+        "text": "ローローローローrolling love",
+        "segments": [
+          { "text": "ローローローロー", "type": "kana", "romaji": "roo roo roo roo" },
+          { "text": "rolling love", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハイハイハイ　ハイハイ！",
+          "align": "end",
+          "segments": [
+            { "text": "ハイハイハイ", "type": "kana", "romaji": "hai hai hai" },
+            { "text": "　", "type": "kana", "romaji": " " },
+            { "text": "ハイハイ", "type": "kana", "romaji": "hai hai" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 140.678,
+      "end": 150.538,
+      "ja": {
+        "text": "止まんない　インフレーション",
+        "segments": [
+          { "text": "止まんない", "type": "kanji", "kana": "とまんない", "romaji": "toman'nai" },
+          { "text": "　", "type": "kana", "romaji": " " },
+          { "text": "インフレーション", "type": "kana", "romaji": "infureeshon" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Fu！",
+          "align": "end",
+          "segments": [
+            { "text": "Fu", "type": "latin" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 150.538,
+      "end": 162.908,
+      "ja": {
+        "text": "Na...",
+        "segments": [
+          { "text": "Na...", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "B U D D i i S  キミ都市いくよ！×2",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "B U D D i i S", "type": "latin" },
+            { "text": "\u3000", "type": "latin" },
+            { "text": "キミ", "type": "kana", "romaji": "kimi" },
+            { "text": "都市", "type": "kanji", "kana": "とし", "romaji": "toshi" },
+            { "text": "いくよ！", "type": "kana", "romaji": "iku yo!" },
+            { "text": "×2", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 162.908,
+      "end": 166.416,
+      "ja": {
+        "text": "一目見た時から奪われた",
+        "segments": [
+          { "text": "一目", "type": "kanji", "kana": "ひとめ", "romaji": "hitome" },
+          { "text": "見た", "type": "kanji", "kana": "みた", "romaji": "mita" },
+          { "text": "時", "type": "kanji", "kana": "とき", "romaji": "toki" },
+          { "text": "から", "type": "kana", "romaji": "kara" },
+          { "text": "奪われた", "type": "kanji", "kana": "うばわれた", "romaji": "ubawareta" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 166.416,
+      "end": 175.573,
+      "ja": {
+        "text": "生命のトキメキ始まった Ah",
+        "segments": [
+          { "text": "生命", "type": "kanji", "kana": "せいめい", "romaji": "seimei" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "トキメキ", "type": "kana", "romaji": "tokimeki" },
+          { "text": "始まった", "type": "kanji", "kana": "はじまった", "romaji": "hajimatta" },
+          { "text": " Ah", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 175.573,
+      "end": 179.613,
+      "ja": {
+        "text": "キミが生まれるずっとずっと前から好きでした",
+        "segments": [
+          { "text": "キミ", "type": "kana", "romaji": "kimi" },
+          { "text": "が", "type": "kana", "romaji": "ga" },
+          { "text": "生まれる", "type": "kanji", "kana": "うまれる", "romaji": "umareru" },
+          { "text": "ずっとずっと", "type": "kana", "romaji": "zutto zutto" },
+          { "text": "前", "type": "kanji", "kana": "まえ", "romaji": "mae" },
+          { "text": "から", "type": "kana", "romaji": "kara" },
+          { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+          { "text": "でした", "type": "kana", "romaji": "deshita" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "好きでした",
+          "align": "start",
+          "offset": 6,
+          "segments": [
+            { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+            { "text": "でした", "type": "kana", "romaji": "deshita" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 179.613,
+      "end": 182.928,
+      "ja": {
+        "text": "ボクが生まれる前から好きでした",
+        "segments": [
+          { "text": "ボク", "type": "kana", "romaji": "boku" },
+          { "text": "が", "type": "kana", "romaji": "ga" },
+          { "text": "生まれる", "type": "kanji", "kana": "うまれる", "romaji": "umareru" },
+          { "text": "前", "type": "kanji", "kana": "まえ", "romaji": "mae" },
+          { "text": "から", "type": "kana", "romaji": "kara" },
+          { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+          { "text": "でした", "type": "kana", "romaji": "deshita" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "好きでした",
+          "align": "start",
+          "offset": 5,
+          "segments": [
+            { "text": "好き", "type": "kanji", "kana": "すき", "romaji": "suki" },
+            { "text": "でした", "type": "kana", "romaji": "deshita" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 182.928,
+      "end": 186.419,
+      "ja": {
+        "text": "あの流星のランデブーで恋に落ちた",
+        "segments": [
+          { "text": "あの", "type": "kana", "romaji": "ano" },
+          { "text": "流星", "type": "kanji", "kana": "りゅうせい", "romaji": "ryuusei" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "ランデブー", "type": "kana", "romaji": "randezvous" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "落ちた", "type": "kanji", "kana": "おちた", "romaji": "ochita" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 186.419,
+      "end": 189.955,
+      "ja": {
+        "text": "シリウスに照らされて",
+        "segments": [
+          { "text": "シリウス", "type": "kana", "romaji": "sirius" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "照らされて", "type": "kanji", "kana": "てらされて", "romaji": "terasarete" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハイハイハイ　ハイハイ！",
+          "align": "end",
+          "segments": [
+            { "text": "ハイハイハイ", "type": "kana", "romaji": "hai hai hai" },
+            { "text": "　", "type": "kana", "romaji": " " },
+            { "text": "ハイハイ", "type": "kana", "romaji": "hai hai" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 189.955,
+      "end": 191.534,
+      "ja": {
+        "text": "懇懇懇懇懇です",
+        "segments": [
+          { "text": "懇懇懇懇懇", "type": "kanji", "kana": "こんこんこんこんこん", "romaji": "konkonkonkonkon" },
+          { "text": "です", "type": "kana", "romaji": "desu" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 191.534,
+      "end": 193.053,
+      "ja": {
+        "text": "コンコングラッチュレイション",
+        "segments": [
+          { "text": "コンコン", "type": "kana", "romaji": "koncon" },
+          { "text": "グラッチュレイション", "type": "kana", "romaji": "guatulation" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 193.053,
+      "end": 196.318,
+      "ja": {
+        "text": "今今今今今世も恋したい",
+        "segments": [
+          { "text": "今今今今今世", "type": "kanji", "kana": "こんこんこんこんこんせ", "romaji": "kon kon kon kon konse" },
+          { "text": "も", "type": "kana", "romaji": "mo" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "したい", "type": "kana", "romaji": "shitai" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "恋したい",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+            { "text": "したい", "type": "kana", "romaji": "shitai" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 196.318,
+      "end": 198.2,
+      "ja": {
+        "text": "懇懇懇懇懇です",
+        "segments": [
+          { "text": "懇懇懇懇懇", "type": "kanji", "kana": "こんこんこんこんこん", "romaji": "konkonkonkonkon" },
+          { "text": "です", "type": "kana", "romaji": "desu" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 198.2,
+      "end": 199.733,
+      "ja": {
+        "text": "コンコングラッチュレイション",
+        "segments": [
+          { "text": "コンコン", "type": "kana", "romaji": "koncon" },
+          { "text": "グラッチュレイション", "type": "kana", "romaji": "guratulation" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 199.733,
+      "end": 203.541,
+      "ja": {
+        "text": "今今今今falling love",
+        "segments": [
+          { "text": "今今今今", "type": "kanji", "kana": "こんこんこんこん", "romaji": "ima ima ima ima" },
+          { "text": "falling love", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハイハイハイ　ハイハイ！",
+          "align": "end",
+          "segments": [
+            { "text": "ハイハイハイ", "type": "kana", "romaji": "hai hai hai" },
+            { "text": "　", "type": "kana", "romaji": " " },
+            { "text": "ハイハイ", "type": "kana", "romaji": "hai hai" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 203.541,
+      "end": 206.543,
+      "ja": {
+        "text": "恋したい　ホモサピエンス",
+        "segments": [
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "したい", "type": "kana", "romaji": "shitai" },
+          { "text": "　", "type": "kana", "romaji": " " },
+          { "text": "ホモサピエンス", "type": "kana", "romaji": "homo sapiens" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Fu！",
+          "align": "end",
+          "segments": [
+            { "text": "Fu", "type": "latin" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 206.543,
+      "end": 208.277,
+      "ja": {
+        "text": "さぁサンサーラ",
+        "segments": [
+          { "text": "さぁ", "type": "kana", "romaji": "saa" },
+          { "text": "サンサーラ", "type": "kana", "romaji": "samsara" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Fu！",
+          "align": "end",
+          "segments": [
+            { "text": "Fu", "type": "latin" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 208.277,
+      "end": 211.034,
+      "ja": {
+        "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!",
+        "segments": [
+          { "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ふみくん！ケビン！もーりー！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "ふみくん", "type": "kana", "romaji": "FUMIkun" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "ケビン", "type": "kana", "romaji": "KEVIN" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "もーりー", "type": "kana", "romaji": "MORRIE" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 211.034,
+      "end": 213.448,
+      "ja": {
+        "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!",
+        "segments": [
+          { "text": "Yoi! Yoi! Yoi! Yoi! Yoi! Yoi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "せいや！ゆうま！まだまだ！！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "せいや", "type": "kana", "romaji": "SEIYA" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "ゆうま", "type": "kana", "romaji": "YUMA" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "まだまだ", "type": "kana", "romaji": "madamada" },
+            { "text": "！！", "type": "kana", "romaji": "!!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 213.448,
+      "end": 215.027,
+      "ja": {
+        "text": "宵々で踊れparty",
+        "segments": [
+          { "text": "宵々", "type": "kanji", "kana": "よいよい", "romaji": "yoiyoi" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "踊れ", "type": "kanji", "kana": "おどれ", "romaji": "odore" },
+          { "text": "party", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 215.027,
+      "end": 217.649,
+      "ja": {
+        "text": "Koi! Koi! Koi! Koi! Koi! Koi!",
+        "segments": [
+          { "text": "Koi! Koi! Koi! Koi! Koi! Koi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "しょうちゃん！たくや！ふみや！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "しょうちゃん", "type": "kana", "romaji": "SHOWchan" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "たくや", "type": "kana", "romaji": "TAKUYA" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "ふみや", "type": "kana", "romaji": "FUMIYA" },
+            { "text": "！", "type": "kana", "romaji": "!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 217.649,
+      "end": 219.476,
+      "ja": {
+        "text": "Koi! Koi! Koi! Koi! Koi! Koi!",
+        "segments": [
+          { "text": "Koi! Koi! Koi! Koi! Koi! Koi!", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "しゅーと！BUDDiiS最高！！",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "しゅーと", "type": "kana", "romaji": "SHOOT" },
+            { "text": "！", "type": "kana", "romaji": "!" },
+            { "text": "BUDDiiS", "type": "latin" },
+            { "text": "最高", "type": "kanji", "kana": "さいこう", "romaji": "saikou" },
+            { "text": "！！", "type": "kana", "romaji": "!!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 219.476,
+      "end": 221.649,
+      "ja": {
+        "text": "濃い恋で踊れbaby",
+        "segments": [
+          { "text": "濃い", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "恋", "type": "kanji", "kana": "こい", "romaji": "koi" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "踊れ", "type": "kanji", "kana": "おどれ", "romaji": "odore" },
+          { "text": "baby", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 221.649,
+      "end": 223.649,
+      "ja": {
+        "text": "Come on!",
+        "segments": [
+          { "text": "Come on!", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    }
+  ],
+  "media": {
+    "defaultVersion": "practice",
+    "items": [
+      {
+        "id": "practice",
+        "label": "Live练习",
+        "provider": "bilibili",
+        "bvid": "BV1gBgs6SEqN",
+        "youtubeId": "",
+        "syncMode": "manual",
+        "videoStart": 177,
+        "timeOffset": 188,
+        "audioOnly": true,
+        "note": "Bilibili 视频从 2:57 开始，第一句歌词在 3:08"
+      },
+      {
+        "id": "lecture",
+        "label": "Call讲座",
+        "provider": "youtube",
+        "youtubeId": "EUh1Cs3Rkh4",
+        "si": "3fd2xcjgZ3aTk30a",
+        "syncMode": "manual",
+        "videoStart": 84,
+        "timeOffset": 88,
+        "audioOnly": true,
+        "note": "YouTube 视频从 1:24 开始，第一句歌词在 1:28"
+      }
+    ]
+  }
+}
