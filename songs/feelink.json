@@ -1,0 +1,1243 @@
+{
+  "id": "feelink",
+  "title": "Feelink",
+  "titleKana": "ふぃーりんく",
+  "releaseDate": "2026-02-11",
+  "hasCall": true,
+  "preview": {
+    "lyricExcerpt": "Messageより大切なものだってあるでしょ？",
+    "note": ""
+  },
+  "lyrics": [
+    {
+      "start": 0,
+      "end": 12.913,
+      "ja": {
+        "text": "作曲 : 源田爽馬/Kanata Okajima/pw.a",
+        "segments": [
+          { "text": "作曲 : 源田爽馬/Kanata Okajima/pw.a", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 11,
+      "end": 12.913,
+      "ja": {
+        "text": "",
+        "segments": []
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "KEVIN",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "KEVIN", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 12.913,
+      "end": 14.64,
+      "ja": {
+        "text": "どんな時でも",
+        "segments": [
+          { "text": "どんな", "type": "kana", "romaji": "donna" },
+          { "text": "時", "type": "kanji", "kana": "とき", "romaji": "toki" },
+          { "text": "でも", "type": "kana", "romaji": "demo" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 14.64,
+      "end": 18.169,
+      "ja": {
+        "text": "Heart to Heartで感じ合おう",
+        "segments": [
+          { "text": "Heart to Heart", "type": "latin" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "感じ合おう", "type": "kanji", "kana": "かんじあおう", "romaji": "kanjiaou" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 18.169,
+      "end": 21.768,
+      "ja": {
+        "text": "No need lie　君のままで",
+        "segments": [
+          { "text": "No need lie", "type": "latin" },
+          { "text": "　", "type": "latin" },
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "のままで", "type": "kana", "romaji": "nomamade" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 21.768,
+      "end": 25.441,
+      "ja": {
+        "text": "言葉よりも伝わる Feelin'",
+        "segments": [
+          { "text": "言葉", "type": "kanji", "kana": "ことば", "romaji": "kotoba" },
+          { "text": "よりも", "type": "kana", "romaji": "yorimo" },
+          { "text": "伝わる", "type": "kanji", "kana": "つたわる", "romaji": "tsutawaru" },
+          { "text": " Feelin'", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 25.441,
+      "end": 28.894,
+      "ja": {
+        "text": "届けたいよ Right now",
+        "segments": [
+          { "text": "届けたいよ", "type": "kanji", "kana": "とどけたいよ", "romaji": "todoketaiyo" },
+          { "text": " Right now", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 28.894,
+      "end": 32.648,
+      "ja": {
+        "text": "One day　なんだか暗い声してるね",
+        "segments": [
+          { "text": "One day", "type": "latin" },
+          { "text": "　なんだか", "type": "kana", "romaji": "nandaka" },
+          { "text": "暗い", "type": "kanji", "kana": "くらい", "romaji": "kurai" },
+          { "text": "声", "type": "kanji", "kana": "こえ", "romaji": "koe" },
+          { "text": "してるね", "type": "kana", "romaji": "shiterune" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 32.648,
+      "end": 36.267,
+      "ja": {
+        "text": "曖昧わからない　スマホ越しの君",
+        "segments": [
+          { "text": "曖昧", "type": "kanji", "kana": "あいまい", "romaji": "aimai" },
+          { "text": "わからない", "type": "kana", "romaji": "wakaranai" },
+          { "text": "　スマホ", "type": "kana", "romaji": "sumaho" },
+          { "text": "越し", "type": "kanji", "kana": "ごし", "romaji": "goshi" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 36.267,
+      "end": 39.328,
+      "ja": {
+        "text": "No doubt　ネガティブな言葉なんて",
+        "segments": [
+          { "text": "No doubt", "type": "latin" },
+          { "text": "　ネガティブな", "type": "latin" },
+          { "text": "言葉", "type": "kanji", "kana": "ことば", "romaji": "kotoba" },
+          { "text": "なんて", "type": "kana", "romaji": "nante" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 39.328,
+      "end": 42.429,
+      "ja": {
+        "text": "似合わない Swipe and swipe",
+        "segments": [
+          { "text": "似合わない", "type": "kanji", "kana": "にあわない", "romaji": "niawanai" },
+          { "text": " Swipe and swipe", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 42.429,
+      "end": 44.433,
+      "ja": {
+        "text": "Don't you worry now",
+        "segments": [
+          { "text": "Don't you worry now", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Hey！",
+          "align": "end",
+          "segments": [
+            { "text": "Hey！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 44.433,
+      "end": 46.097,
+      "ja": {
+        "text": "迎えに行く",
+        "segments": [
+          { "text": "迎え", "type": "kanji", "kana": "むかえ", "romaji": "mukae" },
+          { "text": "に", "type": "kana", "romaji": "ni" },
+          { "text": "行く", "type": "kanji", "kana": "いく", "romaji": "iku" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 46.097,
+      "end": 50.534,
+      "ja": {
+        "text": "いつだって変えてみせる to smile",
+        "segments": [
+          { "text": "いつだって", "type": "kana", "romaji": "itsudatte" },
+          { "text": "変えて", "type": "kanji", "kana": "かえて", "romaji": "kaete" },
+          { "text": "みせる", "type": "kana", "romaji": "miseru" },
+          { "text": " to smile", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "smile",
+          "align": "end",
+          "segments": [
+            { "text": "smile", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 50.534,
+      "end": 57.596,
+      "ja": {
+        "text": "Messageより大切なものだってあるでしょ？",
+        "segments": [
+          { "text": "Message", "type": "latin" },
+          { "text": "より", "type": "kana", "romaji": "yori" },
+          { "text": "大切", "type": "kanji", "kana": "たいせつ", "romaji": "taisetsu" },
+          { "text": "なものだってあるでしょ？", "type": "kana", "romaji": "namonodattearudesho" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "あるよ～！",
+          "align": "end",
+          "segments": [
+            { "text": "あるよ～！", "type": "kana", "romaji": "aruyo~!" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 57.596,
+      "end": 59.998,
+      "ja": {
+        "text": "Maybe, maybe, maybe",
+        "segments": [
+          { "text": "Maybe, maybe, maybe", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 59.998,
+      "end": 61.961,
+      "ja": {
+        "text": "既読よりも keytalk",
+        "segments": [
+          { "text": "既読", "type": "kanji", "kana": "きどく", "romaji": "kidoku" },
+          { "text": "よりも", "type": "kana", "romaji": "yorimo" },
+          { "text": " keytalk", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 61.961,
+      "end": 64.705,
+      "ja": {
+        "text": "いるのは君と僕 Eh",
+        "segments": [
+          { "text": "いるのは", "type": "kana", "romaji": "irunoha" },
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "と", "type": "kana", "romaji": "to" },
+          { "text": "僕", "type": "kanji", "kana": "ぼく", "romaji": "boku" },
+          { "text": " Eh", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 64.705,
+      "end": 67.232,
+      "ja": {
+        "text": "Lady, lady, lady",
+        "segments": [
+          { "text": "Lady, lady, lady", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 67.232,
+      "end": 71.232,
+      "ja": {
+        "text": "乗り越えるこのDistanceずっと",
+        "segments": [
+          { "text": "乗り越える", "type": "kanji", "kana": "のりこえる", "romaji": "norikoeru" },
+          { "text": "この", "type": "kana", "romaji": "kono" },
+          { "text": "Distance", "type": "latin" },
+          { "text": "ずっと", "type": "kana", "romaji": "zutto" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 71.232,
+      "end": 72.209,
+      "ja": {
+        "text": "",
+        "segments": []
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "SHOOT",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "SHOOT", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 72.209,
+      "end": 73.721,
+      "ja": {
+        "text": "どんな時でも",
+        "segments": [
+          { "text": "どんな", "type": "kana", "romaji": "donna" },
+          { "text": "時", "type": "kanji", "kana": "とき", "romaji": "toki" },
+          { "text": "でも", "type": "kana", "romaji": "demo" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 73.721,
+      "end": 77.355,
+      "ja": {
+        "text": "Heart to Heart で感じ合おう (whoop！)",
+        "segments": [
+          { "text": "Heart to Heart ", "type": "latin" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "感じ合おう", "type": "kanji", "kana": "かんじあおう", "romaji": "kanjiaou" },
+          { "text": " (whoop！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "whoop！",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "whoop！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 77.355,
+      "end": 80.819,
+      "ja": {
+        "text": "No need lie　君のままで (Oh please！)",
+        "segments": [
+          { "text": "No need lie", "type": "latin" },
+          { "text": "　", "type": "latin" },
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "のままで", "type": "kana", "romaji": "nomamade" },
+          { "text": " (Oh please！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Oh please！",
+          "align": "start",
+          "offset": 4,
+          "segments": [
+            { "text": "Oh please！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 80.819,
+      "end": 84.655,
+      "ja": {
+        "text": "届けるから最高の Feelin'",
+        "segments": [
+          { "text": "届けるから", "type": "kanji", "kana": "とどけるから", "romaji": "todokerukara" },
+          { "text": "最高", "type": "kanji", "kana": "さいこう", "romaji": "saikou" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": " Feelin'", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 84.655,
+      "end": 88.037,
+      "ja": {
+        "text": "それが2人だけのハッシュタグ",
+        "segments": [
+          { "text": "それが", "type": "kana", "romaji": "sorega" },
+          { "text": "2人", "type": "kanji", "kana": "ふたり", "romaji": "futari" },
+          { "text": "だけの", "type": "kana", "romaji": "dakeno" },
+          { "text": "ハッシュタグ", "type": "kana", "romaji": "hasshutagu" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハッシュタグ",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "ハッシュタグ", "type": "kana", "romaji": "hasshutagu" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 88.037,
+      "end": 91.636,
+      "ja": {
+        "text": "いつだってそう Connect with you (Can feel it now！)",
+        "segments": [
+          { "text": "いつだってそう", "type": "kana", "romaji": "itsudattesou" },
+          { "text": " Connect with you", "type": "latin" },
+          { "text": " (Can feel it now！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Can feel it now！",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "Can feel it now！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 91.636,
+      "end": 95.154,
+      "ja": {
+        "text": "繋がり合うイメージ (Yeah feel it now！)",
+        "segments": [
+          { "text": "繋がり合う", "type": "kanji", "kana": "つながりあう", "romaji": "tsunagariau" },
+          { "text": "イメージ", "type": "kana", "romaji": "imeeji" },
+          { "text": " (Yeah feel it now！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Yeah feel it now！",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "Yeah feel it now！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 95.154,
+      "end": 102.406,
+      "ja": {
+        "text": "言葉より心でさ　伝えたい Everything",
+        "segments": [
+          { "text": "言葉", "type": "kanji", "kana": "ことば", "romaji": "kotoba" },
+          { "text": "より", "type": "kana", "romaji": "yori" },
+          { "text": "心", "type": "kanji", "kana": "こころ", "romaji": "kokoro" },
+          { "text": "でさ　", "type": "kana", "romaji": "desa" },
+          { "text": "伝えたい", "type": "kanji", "kana": "つたえたい", "romaji": "tsutaetai" },
+          { "text": " Everything", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 102.406,
+      "end": 103.914,
+      "ja": {
+        "text": "それが Heart to Heart",
+        "segments": [
+          { "text": "それが", "type": "kana", "romaji": "sorega" },
+          { "text": " Heart to Heart", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Heart to Heart",
+          "align": "start",
+          "offset": 1,
+          "segments": [
+            { "text": "Heart to Heart", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 103.914,
+      "end": 104.463,
+      "ja": {
+        "text": "Yeah",
+        "segments": [
+          { "text": "Yeah", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 104.463,
+      "end": 106.201,
+      "ja": {
+        "text": "見えない距離でも feel your vibe",
+        "segments": [
+          { "text": "見えない", "type": "kanji", "kana": "みえない", "romaji": "mienai" },
+          { "text": "距離", "type": "kanji", "kana": "きょり", "romaji": "kyori" },
+          { "text": "でも", "type": "kana", "romaji": "demo" },
+          { "text": " feel your vibe", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 106.201,
+      "end": 107.955,
+      "ja": {
+        "text": "電波越しでも alive",
+        "segments": [
+          { "text": "電波", "type": "kanji", "kana": "でんぱ", "romaji": "denpa" },
+          { "text": "越し", "type": "kanji", "kana": "ごし", "romaji": "goshi" },
+          { "text": "でも", "type": "kana", "romaji": "demo" },
+          { "text": " alive", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 107.955,
+      "end": 109.738,
+      "ja": {
+        "text": "流れる timeline の向こう側",
+        "segments": [
+          { "text": "流れる", "type": "kanji", "kana": "ながれる", "romaji": "nagareru" },
+          { "text": " timeline ", "type": "latin" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "向こう側", "type": "kanji", "kana": "むこうがわ", "romaji": "mukougawa" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 109.738,
+      "end": 111.537,
+      "ja": {
+        "text": "君の笑顔だけが real life",
+        "segments": [
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "笑顔", "type": "kanji", "kana": "えがお", "romaji": "egao" },
+          { "text": "だけが", "type": "kana", "romaji": "dakega" },
+          { "text": " real life", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 111.537,
+      "end": 113.307,
+      "ja": {
+        "text": "画面の奥にある truth",
+        "segments": [
+          { "text": "画面", "type": "kanji", "kana": "がめん", "romaji": "gamen" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": "奥", "type": "kanji", "kana": "おく", "romaji": "oku" },
+          { "text": "にある", "type": "kana", "romaji": "niaru" },
+          { "text": " truth", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 113.307,
+      "end": 115.172,
+      "ja": {
+        "text": "言葉にならない proof",
+        "segments": [
+          { "text": "言葉", "type": "kanji", "kana": "ことば", "romaji": "kotoba" },
+          { "text": "にならない", "type": "kana", "romaji": "ninaranai" },
+          { "text": " proof", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 115.172,
+      "end": 118.446,
+      "ja": {
+        "text": "声を重ねて groove yea",
+        "segments": [
+          { "text": "声", "type": "kanji", "kana": "こえ", "romaji": "koe" },
+          { "text": "を", "type": "kana", "romaji": "wo" },
+          { "text": "重ねて", "type": "kanji", "kana": "かさねて", "romaji": "kasanete" },
+          { "text": " groove yea", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Yeah",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "Yeah", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 118.446,
+      "end": 120.675,
+      "ja": {
+        "text": "Maybe, maybe, maybe",
+        "segments": [
+          { "text": "Maybe, maybe, maybe", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 120.675,
+      "end": 122.83,
+      "ja": {
+        "text": "昨日よりもきっと",
+        "segments": [
+          { "text": "昨日", "type": "kanji", "kana": "きのう", "romaji": "kinou" },
+          { "text": "よりも", "type": "kana", "romaji": "yorimo" },
+          { "text": "きっと", "type": "kana", "romaji": "kitto" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 122.83,
+      "end": 125.61,
+      "ja": {
+        "text": "僕と君はひとつ Eh",
+        "segments": [
+          { "text": "僕", "type": "kanji", "kana": "ぼく", "romaji": "boku" },
+          { "text": "と", "type": "kana", "romaji": "to" },
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "はひとつ", "type": "kana", "romaji": "hahitotsu" },
+          { "text": " Eh", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 125.61,
+      "end": 128.177,
+      "ja": {
+        "text": "Lady, lady, lady",
+        "segments": [
+          { "text": "Lady, lady, lady", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 128.177,
+      "end": 132,
+      "ja": {
+        "text": "不確かでも信じたいずっと",
+        "segments": [
+          { "text": "不確か", "type": "kanji", "kana": "ふたしか", "romaji": "futashika" },
+          { "text": "でも", "type": "kana", "romaji": "demo" },
+          { "text": "信じたい", "type": "kanji", "kana": "しんじたい", "romaji": "shinjitai" },
+          { "text": "ずっと", "type": "kana", "romaji": "zutto" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 132,
+      "end": 133.106,
+      "ja": {
+        "text": "",
+        "segments": []
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "FUMINORI",
+          "align": "start",
+          "offset": 0,
+          "segments": [
+            { "text": "FUMINORI", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 133.106,
+      "end": 134.573,
+      "ja": {
+        "text": "どんな時でも",
+        "segments": [
+          { "text": "どんな", "type": "kana", "romaji": "donna" },
+          { "text": "時", "type": "kanji", "kana": "とき", "romaji": "toki" },
+          { "text": "でも", "type": "kana", "romaji": "demo" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 134.573,
+      "end": 138.173,
+      "ja": {
+        "text": "Heart to Heart で感じ合おう (whoop！)",
+        "segments": [
+          { "text": "Heart to Heart ", "type": "latin" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "感じ合おう", "type": "kanji", "kana": "かんじあおう", "romaji": "kanjiaou" },
+          { "text": " (whoop！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "whoop！",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "whoop！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 138.173,
+      "end": 141.79,
+      "ja": {
+        "text": "No need lie　君のままで (Oh please！)",
+        "segments": [
+          { "text": "No need lie", "type": "latin" },
+          { "text": "　", "type": "latin" },
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "のままで", "type": "kana", "romaji": "nomamade" },
+          { "text": " (Oh please！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Oh please！",
+          "align": "start",
+          "offset": 4,
+          "segments": [
+            { "text": "Oh please！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 141.79,
+      "end": 145.417,
+      "ja": {
+        "text": "届けるから最高の Feelin'",
+        "segments": [
+          { "text": "届けるから", "type": "kanji", "kana": "とどけるから", "romaji": "todokerukara" },
+          { "text": "最高", "type": "kanji", "kana": "さいこう", "romaji": "saikou" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": " Feelin'", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 145.417,
+      "end": 148.98,
+      "ja": {
+        "text": "それが2人だけのハッシュタグ",
+        "segments": [
+          { "text": "それが", "type": "kana", "romaji": "sorega" },
+          { "text": "2人", "type": "kanji", "kana": "ふたり", "romaji": "futari" },
+          { "text": "だけの", "type": "kana", "romaji": "dakeno" },
+          { "text": "ハッシュタグ", "type": "kana", "romaji": "hasshutagu" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハッシュタグ",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "ハッシュタグ", "type": "kana", "romaji": "hasshutagu" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 148.98,
+      "end": 152.471,
+      "ja": {
+        "text": "いつだってそう Connect with you (Can feel it now！)",
+        "segments": [
+          { "text": "いつだってそう", "type": "kana", "romaji": "itsudattesou" },
+          { "text": " Connect with you", "type": "latin" },
+          { "text": " (Can feel it now！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Can feel it now！",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "Can feel it now！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 152.471,
+      "end": 156.016,
+      "ja": {
+        "text": "繋がり合うイメージ (Yeah feel it now！)",
+        "segments": [
+          { "text": "繋がり合う", "type": "kanji", "kana": "つながりあう", "romaji": "tsunagariau" },
+          { "text": "イメージ", "type": "kana", "romaji": "imeeji" },
+          { "text": " (Yeah feel it now！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Yeah feel it now！",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "Yeah feel it now！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 156.016,
+      "end": 163.242,
+      "ja": {
+        "text": "言葉より心でさ　伝えたい Everything",
+        "segments": [
+          { "text": "言葉", "type": "kanji", "kana": "ことば", "romaji": "kotoba" },
+          { "text": "より", "type": "kana", "romaji": "yori" },
+          { "text": "心", "type": "kanji", "kana": "こころ", "romaji": "kokoro" },
+          { "text": "でさ　", "type": "kana", "romaji": "desa" },
+          { "text": "伝えたい", "type": "kanji", "kana": "つたえたい", "romaji": "tsutaetai" },
+          { "text": " Everything", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 163.242,
+      "end": 165.123,
+      "ja": {
+        "text": "それが Heart to Heart",
+        "segments": [
+          { "text": "それが", "type": "kana", "romaji": "sorega" },
+          { "text": " Heart to Heart", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Heart to Heart",
+          "align": "start",
+          "offset": 1,
+          "segments": [
+            { "text": "Heart to Heart", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 165.123,
+      "end": 168.424,
+      "ja": {
+        "text": "「こんなの違う」「こんなもんじゃない」",
+        "segments": [
+          { "text": "「こんなの", "type": "kana", "romaji": "konna no" },
+          { "text": "違う", "type": "kanji", "kana": "ちがう", "romaji": "chigau" },
+          { "text": "」「こんなもんじゃない」", "type": "kana", "romaji": "konna mon janai" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 168.424,
+      "end": 172.061,
+      "ja": {
+        "text": "なんか足りない Everyday",
+        "segments": [
+          { "text": "なんか", "type": "kana", "romaji": "nanka" },
+          { "text": "足りない", "type": "kanji", "kana": "たりない", "romaji": "tarinai" },
+          { "text": " Everyday", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 172.061,
+      "end": 175.626,
+      "ja": {
+        "text": "少しでイイ　触れ合えば",
+        "segments": [
+          { "text": "少し", "type": "kanji", "kana": "すこし", "romaji": "sukoshi" },
+          { "text": "でイイ　", "type": "kana", "romaji": "de ii" },
+          { "text": "触れ合えば", "type": "kanji", "kana": "ふれあえば", "romaji": "fureae ba" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 175.626,
+      "end": 179.466,
+      "ja": {
+        "text": "It's all right, it'll be alright",
+        "segments": [
+          { "text": "It's all right, it'll be alright", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 179.466,
+      "end": 181.087,
+      "ja": {
+        "text": "どんな時でも",
+        "segments": [
+          { "text": "どんな", "type": "kana", "romaji": "donna" },
+          { "text": "時", "type": "kanji", "kana": "とき", "romaji": "toki" },
+          { "text": "でも", "type": "kana", "romaji": "demo" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 181.087,
+      "end": 184.675,
+      "ja": {
+        "text": "Heart to Heart で感じ合おう",
+        "segments": [
+          { "text": "Heart to Heart ", "type": "latin" },
+          { "text": "で", "type": "kana", "romaji": "de" },
+          { "text": "感じ合おう", "type": "kanji", "kana": "かんじあおう", "romaji": "kanjiaou" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 184.675,
+      "end": 188.251,
+      "ja": {
+        "text": "No need lie　君のままで",
+        "segments": [
+          { "text": "No need lie", "type": "latin" },
+          { "text": "　", "type": "latin" },
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "のままで", "type": "kana", "romaji": "nomamade" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 188.251,
+      "end": 192.037,
+      "ja": {
+        "text": "届けるから最高の Feelin'",
+        "segments": [
+          { "text": "届けるから", "type": "kanji", "kana": "とどけるから", "romaji": "todokerukara" },
+          { "text": "最高", "type": "kanji", "kana": "さいこう", "romaji": "saikou" },
+          { "text": "の", "type": "kana", "romaji": "no" },
+          { "text": " Feelin'", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 192.037,
+      "end": 195.403,
+      "ja": {
+        "text": "それが2人だけのハッシュタグ",
+        "segments": [
+          { "text": "それが", "type": "kana", "romaji": "sorega" },
+          { "text": "2人", "type": "kanji", "kana": "ふたり", "romaji": "futari" },
+          { "text": "だけの", "type": "kana", "romaji": "dakeno" },
+          { "text": "ハッシュタグ", "type": "kana", "romaji": "hasshutagu" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "ハッシュタグ",
+          "align": "start",
+          "offset": 3,
+          "segments": [
+            { "text": "ハッシュタグ", "type": "kana", "romaji": "hasshutagu" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 195.403,
+      "end": 198.947,
+      "ja": {
+        "text": "いつだってそう Connect with you (Can feel it now！)",
+        "segments": [
+          { "text": "いつだってそう", "type": "kana", "romaji": "itsudattesou" },
+          { "text": " Connect with you", "type": "latin" },
+          { "text": " (Can feel it now！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Can feel it now！",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "Can feel it now！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 198.947,
+      "end": 202.449,
+      "ja": {
+        "text": "繋がり合うイメージ (Yeah feel it now！)",
+        "segments": [
+          { "text": "繋がり合う", "type": "kanji", "kana": "つながりあう", "romaji": "tsunagariau" },
+          { "text": "イメージ", "type": "kana", "romaji": "imeeji" },
+          { "text": " (Yeah feel it now！)", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Yeah feel it now！",
+          "align": "start",
+          "offset": 2,
+          "segments": [
+            { "text": "Yeah feel it now！", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 202.449,
+      "end": 210.053,
+      "ja": {
+        "text": "言葉より心でさ　伝えたい Everything",
+        "segments": [
+          { "text": "言葉", "type": "kanji", "kana": "ことば", "romaji": "kotoba" },
+          { "text": "より", "type": "kana", "romaji": "yori" },
+          { "text": "心", "type": "kanji", "kana": "こころ", "romaji": "kokoro" },
+          { "text": "でさ　", "type": "kana", "romaji": "desa" },
+          { "text": "伝えたい", "type": "kanji", "kana": "つたえたい", "romaji": "tsutaetai" },
+          { "text": " Everything", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 210.053,
+      "end": 211.565,
+      "ja": {
+        "text": "それが Heart to Heart",
+        "segments": [
+          { "text": "それが", "type": "kana", "romaji": "sorega" },
+          { "text": " Heart to Heart", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Heart to Heart",
+          "align": "start",
+          "offset": 1,
+          "segments": [
+            { "text": "Heart to Heart", "type": "latin" }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 211.565,
+      "end": 216.465,
+      "ja": {
+        "text": "Heart to Heart…",
+        "segments": [
+          { "text": "Heart to Heart…", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 216.465,
+      "end": 217.271,
+      "ja": {
+        "text": "(Tick-tock　シンクロする soul)",
+        "segments": [
+          { "text": "(Tick-tock　", "type": "latin" },
+          { "text": "シンクロする", "type": "kana", "romaji": "shinkurosuru" },
+          { "text": " soul)", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 217.271,
+      "end": 218.745,
+      "ja": {
+        "text": "君と Heart to Heart",
+        "segments": [
+          { "text": "君", "type": "kanji", "kana": "きみ", "romaji": "kimi" },
+          { "text": "と", "type": "kana", "romaji": "to" },
+          { "text": " Heart to Heart", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 218.745,
+      "end": 221.734,
+      "ja": {
+        "text": "Heart to Heart…",
+        "segments": [
+          { "text": "Heart to Heart…", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 221.734,
+      "end": 223.011,
+      "ja": {
+        "text": "Oh yeah",
+        "segments": [
+          { "text": "Oh yeah", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 223.011,
+      "end": 224.331,
+      "ja": {
+        "text": "(We're Heart to Heart you know yea)",
+        "segments": [
+          { "text": "(We're Heart to Heart you know yea)", "type": "latin" }
+        ]
+      },
+      "translations": {}
+    },
+    {
+      "start": 224.331,
+      "end": 226,
+      "ja": {
+        "text": "それが Heart to Heart",
+        "segments": [
+          { "text": "それが", "type": "kana", "romaji": "sorega" },
+          { "text": " Heart to Heart", "type": "latin" }
+        ]
+      },
+      "translations": {},
+      "calls": [
+        {
+          "text": "Heart to Heart",
+          "align": "start",
+          "offset": 1,
+          "segments": [
+            { "text": "Heart to Heart", "type": "latin" }
+          ]
+        }
+      ]
+    }
+  ],
+  "media": {
+    "audio": {
+      "id": "audio-1",
+      "label": "练习音源",
+      "provider": "audio",
+      "src": "./audio/feelink.m4a",
+      "cover": "./images/ttbds.jpg",
+      "timeOffset": 0,
+      "note": "本地音频"
+    },
+    "video": {
+      "callLecture": {
+        "items": [
+          {
+            "id": "lecture",
+            "label": "Call 讲座",
+            "provider": "youtube",
+            "youtubeId": "Vx3irR9ajkc",
+            "si": "",
+            "videoStart": 100,
+            "timeOffset": 100,
+            "duration": 226,
+            "note": "映射时间轴"
+          }
+        ]
+      },
+      "livePractice": {
+        "items": [
+          {
+            "id": "practice",
+            "label": "Live 练习",
+            "provider": "bilibili",
+            "bvid": "BV1gBgs6SEqN",
+            "page": 2,
+            "note": "B站外嵌，不映射"
+          }
+        ]
+      }
+    }
+  }
+}

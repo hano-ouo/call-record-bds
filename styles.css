@@ -17,13 +17,30 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  min-height: 100%;
+}
+
+html {
+  overflow-y: auto;
+}
+
 body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
   font-family:
-    "Zen Kaku Gothic New", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", "Noto Sans SC", "Noto Sans JP", sans-serif;
+    "Zen Kaku Gothic New",
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Noto Sans SC",
+    "Noto Sans JP",
+    sans-serif;
 }
 
 button {
@@ -34,7 +51,8 @@ button {
   min-height: 100vh;
 }
 
-/* ===== 顶部栏不再固定 ===== */
+/* ===== 顶部栏 ===== */
+
 .topbar {
   position: static;
   display: flex;
@@ -138,6 +156,8 @@ button {
   padding: 24px 0 54px;
 }
 
+/* ===== 工具栏 ===== */
+
 .toolbar {
   display: flex;
   align-items: center;
@@ -233,6 +253,8 @@ button {
   background: var(--blue-deep);
   color: var(--bg);
 }
+
+/* ===== 歌曲列表 ===== */
 
 .song-list {
   display: flex;
@@ -354,6 +376,8 @@ button {
   color: white;
 }
 
+/* ===== Mode ===== */
+
 .mode-switch {
   display: inline-flex;
   border: 1px solid var(--line-strong);
@@ -387,6 +411,8 @@ button {
   background: var(--blue-deep);
   color: white;
 }
+
+/* ===== Toggle ===== */
 
 .toggle-chip {
   display: inline-flex;
@@ -428,7 +454,8 @@ button {
   background: var(--blue-deep);
 }
 
-/* ===== 详情页曲名栏下滑贴顶 ===== */
+/* ===== 详情页头部 ===== */
+
 .detail-head {
   position: sticky;
   top: 0;
@@ -468,26 +495,38 @@ button {
   justify-content: flex-end;
 }
 
-/* ===== 左侧歌词栏略微缩窄 ===== */
+/* ===== 双屏布局 ===== */
+
 .detail-grid {
   display: grid;
-  grid-template-columns: minmax(0, 0.92fr) minmax(420px, 1.08fr);
+  grid-template-columns:
+    minmax(0, 0.92fr)
+    minmax(420px, 1.08fr);
   gap: 18px;
   align-items: start;
 }
 
 .detail-grid.video-focus {
-  grid-template-columns: minmax(0, 0.6fr) minmax(520px, 1.4fr);
+  grid-template-columns:
+    minmax(0, 0.6fr)
+    minmax(520px, 1.4fr);
+}
+
+.detail-grid.audio-focus {
+  grid-template-columns:
+    minmax(0, 1.5fr)
+    minmax(280px, 0.5fr);
 }
 
 .panel {
   border: 1px solid var(--line);
   border-radius: 4px;
   background: var(--paper);
-  box-shadow: 0 14px 32px rgba(23, 32, 51, 0.08);
+  box-shadow:
+    0 14px 32px
+    rgba(23, 32, 51, 0.08);
 }
 
-/* ===== 方向 B：头部不改色，只加粗底部分割线 ===== */
 .panel-head {
   display: flex;
   align-items: center;
@@ -502,40 +541,140 @@ button {
   font-size: 16px;
 }
 
+.media-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.media-head .select-menu {
+  min-width: 0;
+}
+
+.media-head .select-menu:first-child {
+  min-width: 120px;
+}
+
 .lyrics-tools {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
 
+/* ===== 双屏歌词滚动区域 ===== */
+
 .lyrics-and-calls {
   display: block;
   min-height: min(68vh, 720px);
 }
 
+/*
+ * 关键：
+ *
+ * 同时允许纵向和横向滚动。
+ *
+ * 原本虽然写了 overflow:auto，
+ * 但内容本身被 grid/flex 约束后，
+ * 很多超宽 Call 并没有形成稳定的水平滚动区域。
+ */
 .lyrics-scroll {
+  position: relative;
+
   height: min(68vh, 720px);
   min-height: 430px;
-  overflow: auto;
+
+  overflow-x: auto;
+  overflow-y: auto;
+
+  /*
+   * 保持滚动只发生在歌词面板内部。
+   */
+  overscroll-behavior: contain;
+
+  /*
+   * 平滑滚动由 JS 控制。
+   * 不在用户每次滚轮操作时强制 smooth。
+   */
   scroll-behavior: smooth;
+
+  /*
+   * 给第一行留一点正常视觉空间，
+   * 但不会制造“为了居中而留白”的大空区。
+   */
   padding: 8px 0 24px;
+
+  /*
+   * 防止横向内容被 grid 子元素强行压缩。
+   */
+  min-width: 0;
+
+  scrollbar-width: thin;
+  scrollbar-color:
+    rgba(23, 53, 110, 0.45)
+    rgba(23, 32, 51, 0.08);
 }
 
-/* ===== 双屏歌词行：旧版排版（无分隔线） ===== */
+.lyrics-scroll::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+.lyrics-scroll::-webkit-scrollbar-track {
+  background: rgba(23, 32, 51, 0.08);
+  border-radius: 999px;
+}
+
+.lyrics-scroll::-webkit-scrollbar-thumb {
+  background: rgba(23, 53, 110, 0.45);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.lyrics-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(23, 53, 110, 0.7);
+  background-clip: padding-box;
+}
+
+/* ===== 双屏歌词行 ===== */
+
 .line {
+  /*
+   * width:max-content + min-width:100%
+   *
+   * 普通歌词至少占满面板宽度；
+   * 超宽内容/Call 可以把横向滚动区域撑开。
+   */
   display: grid;
-  grid-template-columns: 64px minmax(0, 1fr);
+  grid-template-columns:
+    64px
+    minmax(0, 1fr);
+
+  width: max-content;
+  min-width: 100%;
+
   gap: 12px;
-  padding: 12px 20px 60px;
+
+  /*
+   * 顶部从 12px → 16px：
+   * 给歌词假名增加一点呼吸空间。
+   */
+  padding: 16px 20px 60px;
+
   color: #8b8f98;
+
   border-left: 3px solid transparent;
+
   transition:
     color 120ms ease,
     background 120ms ease,
     border-color 120ms ease;
 }
 
-/* 带 Call 词的行，底部加大留白，避免 Call 罗马音与下一行假名重叠 */
+/*
+ * 有 Call 的歌词行额外增加底部空间，
+ * 防止 Call 假名 / 罗马音碰到下一句。
+ */
 .line:has(.line-call) {
   padding-bottom: 80px;
 }
@@ -553,7 +692,11 @@ button {
 }
 
 .lyric-content {
+  /*
+   * 允许内部 Call 超出歌词正文宽度。
+   */
   position: relative;
+  min-width: 0;
 }
 
 .lyric-main {
@@ -562,10 +705,12 @@ button {
   align-items: flex-end;
   position: relative;
   z-index: 2;
+
   font-family: "Shippori Mincho", serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 1.5;
+
   word-break: keep-all;
   overflow-wrap: anywhere;
   gap: 4px;
@@ -612,32 +757,55 @@ button {
   opacity: 0.85;
 }
 
+/* ===== Call ===== */
+
 .line-calls {
   position: absolute;
   left: 0;
   right: 0;
   top: 0;
   height: 0;
+
+  /*
+   * Call 本身可以超出 lyric-content，
+   * 但不应被 clip。
+   */
+  overflow: visible;
+
   pointer-events: none;
 }
 
 .line-call {
   position: absolute;
   top: 0;
+
+  /*
+   * 防止长 Call 被折行。
+   */
+  width: max-content;
+  max-width: none;
+
   color: var(--blue-deep);
   font-weight: 700;
   line-height: 1.35;
   white-space: nowrap;
+
   pointer-events: auto;
 }
 
-.call-main {
+/*
+ * Call 从 20px → 24px。
+ */
+.line-call .call-main {
   position: relative;
   display: inline-block;
-  font-size: 19px;
+
+  font-size: 24px;
   padding: 0;
+
   border: none;
   border-radius: 0;
+
   background: none;
   color: var(--blue-deep);
 }
@@ -661,6 +829,8 @@ button {
   pointer-events: none;
 }
 
+/* ===== 视频面板 ===== */
+
 .video-panel {
   position: sticky;
   top: 94px;
@@ -679,13 +849,43 @@ button {
   border: 0;
 }
 
+/* ===== 音频 ===== */
+
+.player-frame.audio-frame {
+  aspect-ratio: auto;
+  background: transparent;
+
+  display: grid;
+  gap: 12px;
+  place-items: center;
+
+  padding: 16px;
+}
+
+.audio-cover-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
 .audio-cover {
   position: absolute;
   inset: 0;
+
   display: grid;
   place-items: center;
+
   padding: 24px;
-  background: linear-gradient(135deg, #153b7a, #2367d1 52%, #ffd84d);
+
+  background:
+    linear-gradient(
+      135deg,
+      #153b7a,
+      #2367d1 52%,
+      #ffd84d
+    );
+
   color: white;
   text-align: center;
 }
@@ -707,13 +907,15 @@ button {
 .manual-clock {
   display: grid;
   gap: 10px;
+
   padding: 14px;
+
   border-top: 1px solid var(--line);
 }
 
 .range-row {
   display: grid;
-  grid-template-columns: 1fr 70px;
+  grid-template-columns: 1fr auto;
   gap: 10px;
   align-items: center;
 }
@@ -723,10 +925,15 @@ input[type="range"] {
   accent-color: var(--blue-deep);
 }
 
+/* ===== 格式说明 ===== */
+
 .format-note {
   margin-top: 22px;
   padding: 18px;
-  border: 1px dashed rgba(35, 103, 209, 0.5);
+
+  border: 1px dashed
+    rgba(35, 103, 209, 0.5);
+
   border-radius: 4px;
   background: var(--paper);
 }
@@ -737,10 +944,16 @@ input[type="range"] {
 
 pre {
   overflow: auto;
+
   padding: 14px;
+
   border-radius: 4px;
-  background: rgba(23, 32, 51, 0.92);
+
+  background:
+    rgba(23, 32, 51, 0.92);
+
   color: #f7fafc;
+
   font-size: 12px;
   line-height: 1.55;
 }
@@ -749,7 +962,12 @@ pre {
   display: none;
 }
 
-/* ===== 歌词模式（保持原样，不做修改） ===== */
+/* =========================================================
+   歌词模式
+   =========================================================
+   这部分保持原来的独立布局。
+*/
+
 .lyrics-flow {
   width: 100%;
   margin: 0 auto;
@@ -767,15 +985,19 @@ pre {
 
 .flow-line .lyric-content {
   position: relative;
+
   display: flex;
   flex-direction: column;
   align-items: center;
+
   width: 100%;
 }
 
 .flow-line .lyric-main {
   justify-content: center;
+
   color: var(--ink);
+
   font-family: "Shippori Mincho", serif;
   font-size: clamp(22px, 2.2vw, 28px);
   font-weight: 700;
@@ -789,21 +1011,27 @@ pre {
 .flow-calls {
   display: flex;
   flex-wrap: wrap;
+
   justify-content: center;
   align-items: baseline;
+
   gap: 6px 18px;
   margin-top: 10px;
+
   max-width: 100%;
 }
 
 .flow-call {
   position: relative;
+
   display: inline-flex;
   align-items: baseline;
+
   color: var(--blue-deep);
   font-weight: 700;
   font-size: clamp(16px, 1.8vw, 22px);
   line-height: 1.4;
+
   white-space: nowrap;
 }
 
@@ -815,10 +1043,15 @@ pre {
 
 .flow-call .call-main {
   position: relative;
+
   display: inline-block;
+
   padding: 0;
+
   border: none;
+
   background: none;
+
   color: var(--blue-deep);
   font-size: inherit;
 }
@@ -835,6 +1068,7 @@ pre {
   position: absolute;
   transform: translateX(-50%);
   white-space: nowrap;
+
   color: var(--blue-deep);
   opacity: 0.75;
 }
@@ -847,6 +1081,8 @@ pre {
   font-size: 12px;
   letter-spacing: 0.03em;
 }
+
+/* ===== 移动端 ===== */
 
 @media (max-width: 820px) {
   .topbar,
@@ -882,12 +1118,27 @@ pre {
     position: static;
   }
 
-  /* 双屏歌词行：旧版移动端 */
+  /*
+   * 移动端仍允许水平滚动。
+   */
+  .lyrics-scroll {
+    overflow-x: auto;
+    overflow-y: auto;
+  }
+
   .line {
     display: grid;
-    grid-template-columns: 64px minmax(0, 1fr);
-    gap: 12px;
-    padding: 12px 20px 64px;
+
+    grid-template-columns:
+      54px
+      minmax(0, 1fr);
+
+    gap: 10px;
+
+    padding:
+      14px
+      20px
+      64px;
   }
 
   .line:has(.line-call) {
@@ -896,6 +1147,14 @@ pre {
 
   .lyric-main {
     font-size: 18px;
+  }
+
+  /*
+   * 移动端 Call 稍微收一点，
+   * 但仍比原来的 20px 大。
+   */
+  .line-call .call-main {
+    font-size: 21px;
   }
 
   .flow-line .lyric-main {
@@ -916,42 +1175,14 @@ pre {
   }
 }
 
-.lyrics-scroll {
-  height: min(68vh, 720px);
-  min-height: 430px;
-  overflow: auto;
-  scroll-behavior: smooth;
-  padding: 8px 0 24px;
-
-  scrollbar-width: thin;
-  scrollbar-color: rgba(23, 53, 110, 0.45) rgba(23, 32, 51, 0.08);
-}
-
-.lyrics-scroll::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
-}
-
-.lyrics-scroll::-webkit-scrollbar-track {
-  background: rgba(23, 32, 51, 0.08);
-  border-radius: 999px;
-}
-
-.lyrics-scroll::-webkit-scrollbar-thumb {
-  background: rgba(23, 53, 110, 0.45);
-  border-radius: 999px;
-  border: 2px solid transparent;
-  background-clip: padding-box;
-}
-
-.lyrics-scroll::-webkit-scrollbar-thumb:hover {
-  background: rgba(23, 53, 110, 0.7);
-  background-clip: padding-box;
-}
+/* ===== 页面滚动条 ===== */
 
 html {
   scrollbar-width: thin;
-  scrollbar-color: rgba(23, 53, 110, 0.45) rgba(23, 32, 51, 0.08);
+
+  scrollbar-color:
+    rgba(23, 53, 110, 0.45)
+    rgba(23, 32, 51, 0.08);
 }
 
 html::-webkit-scrollbar {
@@ -966,3 +1197,4 @@ html::-webkit-scrollbar-thumb {
   background: rgba(23, 53, 110, 0.45);
   border-radius: 999px;
 }
+

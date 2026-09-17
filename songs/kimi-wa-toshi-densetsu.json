@@ -937,7 +937,7 @@
           "align": "start",
           "offset": 0,
           "segments": [
-            { "text": "止まんない", "type": "kanji", "kana": "とまんない", "romaji": "toman'nai" }
+            { "text": "止まんない", "type": "kanji", "kana": "とまんない", "romaji": "toman nai" }
           ]
         }
       ]
@@ -1457,32 +1457,43 @@
     }
   ],
   "media": {
-    "defaultVersion": "practice",
-    "items": [
-      {
-        "id": "practice",
-        "label": "Live练习",
-        "provider": "bilibili",
-        "bvid": "BV1gBgs6SEqN",
-        "youtubeId": "",
-        "syncMode": "manual",
-        "videoStart": 177,
-        "timeOffset": 188,
-        "audioOnly": true,
-        "note": "Bilibili 视频从 2:57 开始，第一句歌词在 3:08"
+    "audio": {
+      "id": "audio-1",
+      "label": "练习音源",
+      "provider": "audio",
+      "src": "./audio/kimi-wa-toshi-densetsu.m4a",
+      "cover": "./images/kimi-wa-toshi-densetsu.jpg",
+      "timeOffset": 0,
+      "note": "本地音频"
+    },
+    "video": {
+      "callLecture": {
+        "items": [
+          {
+            "id": "lecture",
+            "label": "Call 讲座",
+            "provider": "youtube",
+            "youtubeId": "EUh1Cs3Rkh4",
+            "si": "3fd2xcjgZ3aTk30a",
+            "videoStart": 84,
+            "timeOffset": 85,
+            "note": "YouTube 视频从 1:24 开始，第一句歌词在 1:25"
+          }
+        ]
       },
-      {
-        "id": "lecture",
-        "label": "Call讲座",
-        "provider": "youtube",
-        "youtubeId": "EUh1Cs3Rkh4",
-        "si": "3fd2xcjgZ3aTk30a",
-        "syncMode": "manual",
-        "videoStart": 84,
-        "timeOffset": 88,
-        "audioOnly": true,
-        "note": "YouTube 视频从 1:24 开始，第一句歌词在 1:28"
+      "livePractice": {
+        "items": [
+          {
+            "id": "practice",
+            "label": "Live 练习",
+            "provider": "bilibili",
+            "bvid": "BV1gBgs6SEqN",
+            "videoStart": 177,
+            "timeOffset": 188,
+            "note": "Bilibili 视频从 2:57 开始，第一句歌词在 3:08"
+          }
+        ]
       }
-    ]
+    }
   }
 }
